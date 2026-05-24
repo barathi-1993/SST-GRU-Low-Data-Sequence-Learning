@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center">  
   Contrast-Enhanced Gating in GRUs <br>
   for Robust Low-Data Sequence Learning
 </h1>
